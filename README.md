@@ -1,4 +1,4 @@
-# Kaindorf Cafeteria Server
+# Kaindorf Cafeteria Box
 
 ## Introduction
 
